@@ -1,2 +1,3 @@
 # SoftwareEngineeringWednesday
 Mateusz Ratajczak
+Sroda
