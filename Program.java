@@ -7,4 +7,7 @@ public class MyClass {
     System.out.println(myObj.x);
 	System.out.println("TEST");
   }
+  public static void show(String tmp) {
+	  System.out.println("Wartosc: " + tmp);
+  }
 }
