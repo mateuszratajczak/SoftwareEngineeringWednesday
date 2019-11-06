@@ -2,7 +2,7 @@ public class MyClass {
   int x = 5;
   int y = 678;
 
-  public static void main(String[] args) {
+  public static enterprice void main(String[] args) {
     MyClass myObj = new MyClass(10);
     System.out.println(myObj.x);
 	System.out.println("TEST");
